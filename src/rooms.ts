@@ -3,19 +3,19 @@ export const roomDirectory = {
     {
       label: "Sydney - Boardroom",
       location: "Sydney HQ",
-      description: "Building B01, Ground Floor",
+      description: "12 seat room with dual screens",
       id: "aaaaa@company.com",
     },
     {
       label: "Homebush - Meeting Room1",
       location: "Metro 1",
-      description: "Building B01, Ground Floor",
+      description: "6 seat room",
       id: "bbbbb@company.com",
     },
     {
       label: "Homebush - Meeting Room2"",
       location: "Homebush",
-      description: "Building A1, X50",
+      description: "6 seat room",
       id: "ccccc@company.com",
     },
   ],
