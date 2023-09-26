@@ -1,22 +1,23 @@
 export const roomDirectory = {
   videoRooms: [
     {
-      label: "Pexip Sydney - MR1",
-      location: "Pexip Sydney Office",
+      label: "Sydney - Boardroom",
+      location: "Sydney HQ",
       description: "Building B01, Ground Floor",
-      id: "syd.mr@pexip.com",
+      id: "aaaaa@company.com",
     },
     {
-      label: "Pexip Sydney - Boardroom",
+      label: "Homebush - Meeting Room1",
       location: "Metro 1",
       description: "Building B01, Ground Floor",
-      id: "syd-sx80@pexip.com",
+      id: "bbbbb@company.com",
     },
     {
-      label: "Pexip Sydney - Poly X50",
-      location: "Metro 1",
+      label: "Homebush - Meeting Room2"",
+      location: "Homebush",
       description: "Building A1, X50",
-      id: "syd.mobile@pexip.com",
+      id: "ccccc@company.com",
     },
   ],
 } as const;
+
